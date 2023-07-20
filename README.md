@@ -16,7 +16,7 @@
 
  <h3>Technologies</h3>
 <p>
-<img height=50 src="https://www.google.com/imgres?imgurl=https%3A%2F%2Ficons.getbootstrap.com%2Fassets%2Fimg%2Ficons-hero.png&tbnid=dvrrFUveQYqWuM&vet=12ahUKEwiT4Zr0g56AAxVkpkwKHRK3APEQMygDegUIARDNAQ..i&imgrefurl=https%3A%2F%2Ficons.getbootstrap.com%2F&docid=dj2ZwyPHejS3DM&w=450&h=340&q=bootstra%205%20svg%20logo&ved=2ahUKEwiT4Zr0g56AAxVkpkwKHRK3APEQMygDegUIARDNAQ"/>
+<img height=50 src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"/>
  
 <img height=50 src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
  
