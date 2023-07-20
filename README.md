@@ -14,6 +14,18 @@
 - 💼 Job interests: Software Engineer, Frontend Engineer, or UI Engineer (Intern or Junior level).
 - 📫 You can [view my resume](https://docs.google.com/document/d/1kvvW5JiviYxkn0jWNQx_0FdLo4UdO3-ULFYHeS_-ZUY/edit?usp=drivesdk) and contact me by emailing mailtogideondamilolabidi@gmail.com.
 
+ <h3>Technologies</h3>
+<p>
+<img height=50 src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"/>
+ 
+<img height=50 src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
+ 
+<img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
+ 
+<img height=50 src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"/>
+ 
+</p>
+
 ---
 
 
