@@ -9,13 +9,15 @@
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I studied at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2023.
-- 🌱 I’m good with JavaScript, Reactjs and VueJs.
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
+- 🌱 I’m good with JavaScript, TypeScript, Reactjs and VueJs.
+- 😊 I'm open to contributing to open-source projects, participating in hackathons, and exploring internship opportunities or other exciting job roles.
 - 💼 Job interests: Software Engineer, Frontend Engineer, or UI Engineer
-- 📫 You can [view my resume](https://docs.google.com/document/d/1kvvW5JiviYxkn0jWNQx_0FdLo4UdO3-ULFYHeS_-ZUY/edit?usp=drivesdk) and contact me by emailing mailtogideondamilolabidi@gmail.com.
+- 📫 You can [view my resume](https://docs.google.com/document/d/1Gu0FyetzA6Hvc1WiJyEnYkEg0TgPg0XFaSdb_iylz9c/edit?usp=drivesdk) and contact me by emailing bidigideondamilola@gmail.com.
 
  <h3>Technologies</h3>
 <p>
+<img height=50 src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/>
+
 <img height=50 src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"/>
  
 <img height=50 src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
@@ -23,7 +25,13 @@
 <img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
  
 <img height=50 src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"/>
- 
+
+<img height=50 src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"/>
+
+<img height=50 src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg"/>
+
+<img height=50 src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"/>
+
 </p>
 
 ---
