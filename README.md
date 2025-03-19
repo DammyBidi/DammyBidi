@@ -9,10 +9,10 @@
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I studied at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2023.
-- 🌱 I’m good with JavaScript, TypeScript, Reactjs and VueJs.
+- 🌱 I’m good with JavaScript, TypeScript, ReactNative, Reactjs and VueJs.
 - 😊 I'm open to contributing to open-source projects, participating in hackathons, and exploring internship opportunities or other exciting job roles.
-- 💼 Job interests: Software Engineer, Frontend Engineer, or UI Engineer
-- 📫 You can [view my resume](https://docs.google.com/document/d/1Gu0FyetzA6Hvc1WiJyEnYkEg0TgPg0XFaSdb_iylz9c/edit?usp=drivesdk) and contact me by emailing bidigideondamilola@gmail.com.
+- 💼 Job interests: Software Engineer, Frontend Engineer, Mobile Engineer or UI Engineer
+- 📫 You can [view my resume](https://drive.google.com/file/d/1v1JFwa-qNDi9pqVRwsxYOnSWMWyJrWWr/view?usp=drivesdk) and contact me by emailing bidigideondamilola@gmail.com.
 
  <h3>Technologies</h3>
 <p>
